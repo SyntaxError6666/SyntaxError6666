@@ -2,7 +2,7 @@
 @SyntaxError6  
 **Please note: I do not accept ordinary Telegram private messages.**  
 To send me a private message, **please use a Secret Chat**.  
-Before sending me a private message, **++strictly adhere to and carry out the following steps to prevent any potential man-in-the-middle attacks++**:  
+Before sending me a private message, **strictly adhere to and carry out the following steps to prevent any potential man-in-the-middle attacks**:  
 1. Subscribe to my channel: [https://t.me/CompareFingerprints](https://t.me/CompareFingerprints)  
 2. Open a Secret Chat with me.  
 3. Wait for me to publish key fingerprint information (i.e., a fingerprint screenshot).  
