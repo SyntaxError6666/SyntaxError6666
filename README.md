@@ -1,4 +1,4 @@
-### My Telegram:
+## My Telegram:
      @SyntaxError6  
 **Please note: I do not accept ordinary Telegram private messages.**  
 To send me a private message, **please use a Secret Chat**.  
